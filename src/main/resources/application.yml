@@ -1,1 +1,7 @@
-
+spring:
+  application:
+    name: ostock-configuration-server
+  profiles:
+    active: native
+server:
+  port: 8888
