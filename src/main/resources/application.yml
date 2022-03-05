@@ -26,3 +26,5 @@ spring:
         git:
           uri: https://github.com/navkkrnair/ostock-configurations.git
           search-paths: main
+encrypt:
+  key: secretKey
